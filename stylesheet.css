@@ -1,0 +1,65 @@
+body{
+  background-color: white;
+
+}
+h1 {
+  font-family: "Gloria Hallelujah";
+  font-size: 4em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+  text-align: center;
+  margin: 1em;
+}
+nav {
+
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+.profile {
+  border-radius: 50%;
+  position: absolute;
+  left:10%;
+  display: inline;
+
+}
+.intro{
+  padding-left: 30%;
+  text-align: left;
+  padding-right: 30%
+}
+
+  h3 {
+  font-family: "Gloria Hallelujah";
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 30px;
+}
+  p {
+    font-family: "Gloria Hallelujah";
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+  }
+
+    blockquote {
+      font-family: "Gloria Hallelujah";
+      font-size: 21px;
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 400;
+      line-height: 30px;
+      }
+      pre {
+      font-family: "Gloria Hallelujah";
+      font-size: 13px;
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 400;
+      line-height: 18.5714px;
+    }
